@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gorsProgHafta3", "gorsProgHafta3\gorsProgHafta3.csproj", "{BF196D08-B4C7-47FB-A3E4-99137FCEE4D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calisma", "calisma\calisma.csproj", "{6847E576-A4E7-43E0-80A1-B462A3BA0207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calisma2", "calisma2\calisma2.csproj", "{AF66643B-1382-4427-990B-A6039FDEB532}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF196D08-B4C7-47FB-A3E4-99137FCEE4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF196D08-B4C7-47FB-A3E4-99137FCEE4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF196D08-B4C7-47FB-A3E4-99137FCEE4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF196D08-B4C7-47FB-A3E4-99137FCEE4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6847E576-A4E7-43E0-80A1-B462A3BA0207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6847E576-A4E7-43E0-80A1-B462A3BA0207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6847E576-A4E7-43E0-80A1-B462A3BA0207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6847E576-A4E7-43E0-80A1-B462A3BA0207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF66643B-1382-4427-990B-A6039FDEB532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF66643B-1382-4427-990B-A6039FDEB532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF66643B-1382-4427-990B-A6039FDEB532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF66643B-1382-4427-990B-A6039FDEB532}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
