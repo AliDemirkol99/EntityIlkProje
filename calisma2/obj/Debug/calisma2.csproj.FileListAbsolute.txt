@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\SANER\gorsProgHafta3\calisma2\bin\Debug\calisma2.exe.config
+C:\Users\User\Desktop\SANER\gorsProgHafta3\calisma2\bin\Debug\calisma2.exe
+C:\Users\User\Desktop\SANER\gorsProgHafta3\calisma2\bin\Debug\calisma2.pdb
+C:\Users\User\Desktop\SANER\gorsProgHafta3\calisma2\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\SANER\gorsProgHafta3\calisma2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\SANER\gorsProgHafta3\calisma2\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\SANER\gorsProgHafta3\calisma2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\SANER\gorsProgHafta3\calisma2\obj\Debug\calisma2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SANER\gorsProgHafta3\calisma2\obj\Debug\calisma2.Form1.resources
+C:\Users\User\Desktop\SANER\gorsProgHafta3\calisma2\obj\Debug\calisma2.Properties.Resources.resources
+C:\Users\User\Desktop\SANER\gorsProgHafta3\calisma2\obj\Debug\calisma2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SANER\gorsProgHafta3\calisma2\obj\Debug\calisma2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SANER\gorsProgHafta3\calisma2\obj\Debug\calisma2.csproj.Up2Date
+C:\Users\User\Desktop\SANER\gorsProgHafta3\calisma2\obj\Debug\calisma2.exe
+C:\Users\User\Desktop\SANER\gorsProgHafta3\calisma2\obj\Debug\calisma2.pdb
